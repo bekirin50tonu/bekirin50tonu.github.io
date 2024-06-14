@@ -1,0 +1,11 @@
+{
+  "title": "BEKİR GÖRMEZ",
+  "description": "Bilgisayar Mühendisi ve Yazılım Geliştiricisi.",
+  "body": "Problem çözmeyi ve sistem tasarlamayı seven, aktif olarak 2 sene toplamda 4 senedir Backend Mimarileri üzerinde çalışan, çeşitli diller kullanarak projeler geliştirme ve bilgi edinme becerilerine sahip bir Backend Geliştiricisi.",
+  "education":"Eğitim",
+  "experience":"Deneyim",
+  "projects":"Projeler",
+  "abilities":"Yetenekler",
+  "more":"Daha Fazlası için tıklayınız.",
+  "developedBy":"© 2024 Bu Site <anchorlink> <bold> {{nameTR}} </bold> </anchorlink> Tarafından Geliştirildi."
+}
