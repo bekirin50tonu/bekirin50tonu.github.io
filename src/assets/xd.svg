@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="200" height="100">
-  <!-- B Harfi -->
-  <path d="M10,50 Q30,20 50,50 Q70,80 90,50 Q110,20 130,50 Q150,80 170,50" fill="none" stroke="blue" stroke-width="5"/>
-  <path d="M20,50 Q30,30 50,50 Q70,70 90,50 Q110,30 120,50" fill="none" stroke="blue" stroke-width="5"/>
-  <!-- G Harfi -->
-  <path d="M120,30 Q140,10 160,30 Q160,60 140,60 Q120,60 120,80 Q120,60 100,60" fill="none" stroke="green" stroke-width="5"/>
-  <path d="M140,30 Q160,30 160,50 Q160,80 140,80 Q120,80 120,60 Q120,40 140,40" fill="none" stroke="green" stroke-width="5"/>
-</svg>
